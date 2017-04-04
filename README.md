@@ -1,14 +1,10 @@
-N-blog
-======
+NodeJs Blog
 
-使用 Express + MongoDB 搭建多人博客  
+## 框架
+使用Express框架进行开发
 
-教程见 [wiki](https://github.com/nswbmw/N-blog/wiki/_pages)
+## 数据库
+使用mongoDB
 
-
-### 分支说明
-
-- master: express4.x 版，受限于排版原因尽量做了最少的改动从原来的express3.x升到express4.x
-- express4.x: express4.x 版，代码进行了重构
-- koa: koa 版
-- master-express3.x-backup: express3.x 版，备份
+## 简介
+练习使用nodejs进行增删改差，即实现了用户的注册、登录，文章的编辑、修改与查找。
